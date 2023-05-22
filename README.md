@@ -2,6 +2,9 @@
 ### Summary
 Explore and visualize the Covid-19 outbreak in South Korea with the Covid-19-SouthKorea-Insights-and-Visualizations project. Gain valuable insights into the impact of Covid-19 across provinces and understand the correlation between age, gender, and Covid-19 cases. The project includes data cleaning, cluster mapping, province-wise distribution, heatmap analysis of missing data, city-wise and overseas country-wise distribution, hypothesis testing, and correlation analysis. Python packages used include pandas, matplotlib, seaborn, missingno, altair, folium, geopandas, and more.
 
+### Data Source: 
+https://www.kaggle.com/kimjihoo/coronavirusdataset 
+
 ### Key Features
 - **Data Cleaning and Preprocessing:** Explore and clean the patientinfo dataset to ensure data accuracy for analysis and visualizations.
 - **Heatmap Analysis of Missing Data:** Create a heatmap representation of missing data patterns in the dataset, identifying the extent and patterns of missing 
